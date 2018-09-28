@@ -1,10 +1,10 @@
 # CLAM-SPOPT
 
-We provide the source code implementing the meat of our approach[^1]. The
+We provide the source code implementing the meat of our approach [1]. The
 code in its current is raw, still containing research code and unused methods.
 We experiment scripts and plotting scripts will be released shortly.
 
-[^1]: Clement Gehring, Tomas Lozano-Perez, Leslie Pack Kaelbling. Adaptable replanning with compressed linear action models for learning from demonstrations. *Proceedings of the Conference on Robot Learning (CoRL)*. 2018.
+[1]: Clement Gehring, Tomas Lozano-Perez, Leslie Pack Kaelbling. Adaptable replanning with compressed linear action models for learning from demonstrations. *Proceedings of the Conference on Robot Learning (CoRL)*. 2018.
 
 ## CONTENTS:
 * python/episodelistener.py :
